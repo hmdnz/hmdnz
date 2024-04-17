@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 😄 I’m  Muhammad
+- 🔭 I’m currently working on becoming a developer
+- 🌱 I’m currently learning Frontend and Backend Technologies
+- 👯 I’m looking to collaborate with beginners like me
+- 😄 Pronouns: He, Him, They who ...
+- ⚡ Fun fact: ha ha ha 
 
 <!--
 **hmdnz/hmdnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
